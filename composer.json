@@ -1,0 +1,13 @@
+{
+    "name": "mirceapop/laravel-codeswholesale",
+    "description": "Laravel service provider for codeswholesale sdk",
+    "authors": [
+        {
+            "name": "Mircea Pop",
+            "email": "mirceaflorinpop@gmail.com"
+        }
+    ],
+    "require": {
+    	"codeswholesale/sdk": "1.0.*@beta"
+    }
+}
