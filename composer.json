@@ -16,8 +16,8 @@
         }
     ],
     "autoload": {
-      "psr-0": {
-        "CodesWholesale\\": "src/"
+      "psr-4": {
+        "CodesWholesale\\": "src/CodesWholesale"
       }
     },
     "require": {
